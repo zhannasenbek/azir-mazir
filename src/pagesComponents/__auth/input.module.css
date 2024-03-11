@@ -1,0 +1,13 @@
+.input {
+  border-radius: 14px;
+  width: 440px;
+  height: 45px;
+  border: 1px solid #418611;
+}
+.inputNameSurname {
+  width: 210px;
+  height: 45px;
+
+  border: 1px solid #418611;
+  border-radius: 14px;
+}
